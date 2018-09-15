@@ -1,0 +1,6 @@
+site_name: Test Documentation
+nav:
+  - Home: http://www.zeroarc.com
+  - Docs Home: index.md
+  - About: about.md
+theme: readthedocs
