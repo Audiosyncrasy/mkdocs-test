@@ -3,4 +3,4 @@ nav:
   - Home: http://www.zeroarc.com
   - Docs Home: index.md
   - About: about.md
-theme: readthedocs
+theme: cinder
